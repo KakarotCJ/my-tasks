@@ -1,0 +1,87 @@
+.nav2{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(23, 23, 37);
+    margin: 10px 50px 10px 50px;
+}
+.nav3{
+    justify-content: right;
+    display:flex;
+}
+.home{
+    margin-right: 10px;
+    margin-left: 40px;
+    font-size: 20px;
+    color: white;
+}
+.home:hover{
+    color:gray;
+}
+.content{
+    border: 0px solid black;
+    border-radius: 10px;
+    background-color:rgb(23, 23, 37);
+    font-size: 20px;
+    color: white;
+    display: none;
+    position: absolute;
+}
+.dropdown:hover .content{
+    display: block;
+}
+
+.inside{
+    margin-top: 20px;
+    position: relative;
+}
+.foot{
+     border: 1px solid; 
+     border-radius: 10px;
+    padding: 100px 100xp 20px 100px;
+    
+}
+.info{
+    display: flex;
+    
+}
+li{
+    list-style: none;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+.ourcourses{
+    margin-left:100px ;
+    margin-bottom: 30px;
+}
+.cyfotokinfosec{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.cyfotokinfosec2{
+    margin-left: 100px;
+}
+.support{
+    margin-left: 100px;
+}
+.logofoot{
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: rgb(9, 9, 14);
+    margin: 50px 100px 0px 100px;
+}
+img{
+    padding:10px 30px 10px 30px;
+    width: 250px;
+    height:100px;
+}
+.two{
+    color: gray;
+    padding: 50px 100px 50px 150px;
+}
+i{
+    font-size: 25px;
+    margin-left: 50px 100px 50px 0px;
+}
+.face{
+    margin-left: 200px;
+}

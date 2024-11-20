@@ -1,0 +1,14 @@
+div~p{
+    background-color: red;
+}
+a:link{
+    color:green;
+
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: gray;
+    background-color: pink;
+}

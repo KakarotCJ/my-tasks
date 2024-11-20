@@ -1,0 +1,103 @@
+body{
+    display: grid;
+    justify-content: center;
+    background-image: url(sunset-minimalist-wallpaper-2560x1600_7.jpg);
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}    
+.line2{
+    text-align: center;
+    color:rgb(229, 77, 243);
+    font-size: 27px;
+    font-family: "Space Grotesk", sans-serif;
+    ;
+}
+.name{
+    padding-bottom: 10px;
+    text-align: center;
+color: rgb(201, 198, 198);
+    font-size: 13px;
+    font-family: "Space Grotesk", sans-serif;
+}
+.first{
+    border-style: none;
+    font-family: "Space Grotesk", sans-serif;
+font-size: 12px;
+    padding-left: 5px;
+    margin-left: 40px;
+margin-right: 25px;
+    width: 135px;
+    height: 30px;
+}
+.last{
+    border-style: none;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 12px;
+    padding-left: 5px;
+margin-right: 40px;
+width: 130px;
+height: 30px;
+}
+.email{
+border-style: none;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 12px;
+    padding-left: 7px;
+    margin-left: 40px;
+    width: 303px;
+    height: 30px;
+    margin-right:40px ;
+}
+.pass{
+    border-style: none;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 12px;
+    padding-left: 7px;
+    margin-left: 40px;
+    width: 303px;
+    height: 30px;
+    margin-right:40px ;
+}
+.confirm{
+    border-style: none;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 12px;
+    padding-left: 7px;
+    margin-left: 40px;
+    width: 303px;
+    height: 30px;
+    margin-right:40px ;
+}
+button{
+    font-family: "Space Grotesk", sans-serif;
+    border: 1px solid black;
+    background-color: green;
+    font-size: 15px;
+    color: aliceblue;
+    width: 315px;
+    height: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+.bottem{
+    text-align: center;
+color: aliceblue;
+margin-bottom: 40px;
+font-family: "Space Grotesk", sans-serif;
+}
+.type{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 15px;
+  padding-left: 40px; 
+  color: rgb(248, 244, 244);
+}
+a{
+    font-family: "Space Grotesk", sans-serif;
+    color: rgb(15, 165, 15);
+}
+.sign{
+    font-family: "Space Grotesk", sans-serif;
+    color: rgb(227, 236, 227);
+}
